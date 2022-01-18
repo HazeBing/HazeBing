@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HazeBing
 - 👀 I’m interested in coding websites
-- 🌱 I’m currently learning HTML/CSS, JavaScript and Php
+- 🌱 I’m currently learning HTML/CSS, JavaScript
 - 💞️ I’m looking to collaborate on codes and advices
